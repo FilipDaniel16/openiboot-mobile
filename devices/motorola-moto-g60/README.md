@@ -47,7 +47,7 @@ Do not use images built for other phones. In particular, do not flash images int
 ## Reference
 
 - Upstream research project: https://github.com/oosexgang/hackios-xnu-kernel
-- Main project repository: https://github.com/YOUR-GITHUB-USERNAME/openiboot-mobile
+- Main project repository: https://github.com/FilipDaniel16/openiboot-mobile
 
 Replace `YOUR-GITHUB-USERNAME` in the reference above with your GitHub username when convenient.
 
