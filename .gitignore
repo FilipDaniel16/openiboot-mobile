@@ -1,0 +1,51 @@
+# Build outputs
+build/
+out/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.elf
+*.bin
+*.tmp
+*.log
+
+# Locally generated boot and disk images
+*.img
+*.iso
+*.qcow2
+*.raw
+
+# Downloaded SDKs and firmware
+vendor/
+firmware/
+proprietary/
+downloads/
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local testing artifacts
+coverage/
+.cache/
+.tmp/
